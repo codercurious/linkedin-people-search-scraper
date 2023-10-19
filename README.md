@@ -1,7 +1,5 @@
-# linkedin-people-search-scraper
-Scrape profiles from linkedin people search url matching all filters 
-
-
+# Linkedin people search scraper
+Interested in using this scraper? Get it here: [Linkedin people search scraper](https://apify.com/curious_coder/linkedin-people-search-scraper?fpr=ve081&fp_sid=github_linkedin-people-search-scraper)
 ## How it works
 
 This actor works on a logged in linkedin account, but doesn't require login details or 2FA as it does't login but uses already generated linkedin session information.
